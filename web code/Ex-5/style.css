@@ -1,0 +1,49 @@
+body{
+    background-color:#1F2833;
+    text-align: center;
+    color: #F64C72;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p{
+    font-size:30px;
+}
+
+.nav_bar{
+    background-color:transparent;
+    top: 0;
+    position: fixed;
+    left: 0;
+}
+
+.spacing{
+    margin:15px;
+    font-size:20px;
+}
+
+img{
+    margin: 20px;
+    height: 400px; 
+    width: 600px;
+    float: none;
+}
+
+.border{
+    border-bottom: 5px solid black;
+    width: fit-content;
+    margin: auto;
+}
+
+.line{
+    border-left: 5px solid black;
+    height:430px;
+    position: absolute;
+    left:50%;
+}
+
+span{
+    color: #45a29e
+}
+
+
+
