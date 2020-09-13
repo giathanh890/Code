@@ -39,8 +39,6 @@
     position: absolute;
     display: flex;
     justify-content: center;
-    align-items: center;
-    align-content: space-between;
     flex-wrap: wrap;
     top: 640px;
     left: 0;
