@@ -1,0 +1,19 @@
+.fade {
+    transform-origin: right left;
+    animation: fade 1.5s ease-in-out forwards;
+    -webkit-animation: fade 1.5s ease infinite;
+}
+
+@-webkit-keyframes fade {
+    from {opacity: .4;
+    }
+    to {opacity: 1;
+    }
+}
+
+@keyframes fade {
+    from {opacity: .4;
+    }
+    to {opacity: 1;
+    }
+}
